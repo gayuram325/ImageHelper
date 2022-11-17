@@ -2,7 +2,7 @@ certifi==2022.9.24
 charset-normalizer==2.1.1
 idna==3.4
 progressbar==2.5
-python-magic-bin==0.4.15
+python-magic-bin==0.4.14
 requests==2.28.1
 simple-image-download==0.4
 urllib3==1.26.12
